@@ -492,9 +492,9 @@ function AddtoHome(time, once) {
 var iconFooter = document.getElementById('iconFooter');
 function cambiarFuenteImagen(modo) {
     if (modo === 'oscuro') {
-        iconFooter.src = 'https://cdn.jsdelivr.net/gh/shirodta/shirodta/assets/img/logow.png';
+        iconFooter.src = 'https://cdn.jsdelivr.net/gh/shirodta/shirodta/assets/img/logo2.png';
     } else {
-        iconFooter.src = 'https://cdn.jsdelivr.net/gh/shirodta/shirodta/assets/img/logob.png';
+        iconFooter.src = 'https://cdn.jsdelivr.net/gh/shirodta/shirodta/assets/img/logo2.png';
     }
 }
 function cambiarFuentesImagenes(modo) {
